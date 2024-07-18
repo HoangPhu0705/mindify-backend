@@ -1,5 +1,5 @@
 node_modules/
 
-src/config/etc/secrets/*.json
+etc/secrets/*.json
 
 *.env
